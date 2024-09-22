@@ -11,5 +11,5 @@ Back:
 
 
 # Acknowledgements:
-- Images from [HackClub](hackclub.com/brand), and [Github](https://github.com/logos)  
+- Images from [HackClub](https://hackclub.com/brand), and [Github](https://github.com/logos)  
 - MX switches footprints from [sszczep/kicad-libraries](https://github.com/sszczep/kicad-libraries/tree/master)  
