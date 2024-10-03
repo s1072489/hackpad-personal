@@ -242,4 +242,15 @@
 			(xyz 0 0 180)
 		)
 	)
+	(model "${KIPRJMOD}/SW_Cherry_MX_1.00u_PCB.step"
+		(offset
+			(xyz 2.55 5.1 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
